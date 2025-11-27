@@ -68,9 +68,9 @@ I'm a PhD candidate at **University of California, Riverside** (GPA: 3.94/4), wo
 **Under Review / In Preparation:**
 - **Pratyay Dutta**, Bir Bhanu. "A Physics-Based Anisotropic Heat Diffusion Framework for Enhanced Edge-Robust Spatiotemporal Representation Learning" *(in preparation)*
 - **Pratyay Dutta**, Bir Bhanu. "Latent Diffusion-Guided Feature Inpainting for Occluded Person Re-Identification With Hybrid Re-Ranking" *(IEEE TCSVT - under review)*
-- **Pratyay Dutta**, Padmaja Jonnalagedda, Bir Bhanu. "POANet: Parts-based Occlusion Aware Network for Person Re-ID" *(IEEE TBIOM - under review)*
 
 **Published:**
+- **Pratyay Dutta**, Padmaja Jonnalagedda, Bir Bhanu. "POANet: Parts-based Occlusion Aware Network for Person Re-ID" - **IEEE TBIOM - 2025**
 - Satyaki Roy, **Pratyay Dutta**, Preetam Ghosh. "Hierarchical Vaccine Allocation based on Epidemiological and Behavioral Considerations" - **IEEE/ACM TCBB 2022**
 - Satyaki Roy, **Pratyay Dutta**, Preetam Ghosh. "Generalizable multi-vaccine distribution strategy based on demographic and behavioral heterogeneity" - **IEEE BIBM 2021**
 
