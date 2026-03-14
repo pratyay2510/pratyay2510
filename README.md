@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyay Dutta</h1>
-<h3 align="center">PhD Student in Computer Science | Researcher in Computer Vision & Deep Learning</h3>
+<h3 align="center">PhD Candidate in Computer Science | Researcher in Computer Vision & Deep Learning</h3>
 
 <p align="center">
   <a href="mailto:pdutta@cs.ucr.edu"><img src="https://img.shields.io/badge/Email-pdutta%40cs.ucr.edu-red?style=flat-square&logo=gmail"></a>
